@@ -229,7 +229,7 @@
         </table>
     </main>
 
-   <footer>
+    <footer>
         <p>&copy; 2025 VINEET YADAV. All rights reserved.</p>
     </footer>
 </body>
